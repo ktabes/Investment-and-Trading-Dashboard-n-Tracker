@@ -3,7 +3,7 @@
 Centralized tracker for spot & perps trading, wallet balances, and rollups-built on **Google Sheets** with **Apps Script** automations. Pulls live market/wallet data, standardizes logs, and maintains summaries for quick P\&L review.
 
 > **Live sheet:** *https://docs.google.com/spreadsheets/d/1P9Iue5bApHW_WJjJ5ZmfBOmB2sJYG7m6u2_UOeTw8hw/edit?usp=sharing* (view-only)
-> **Code:** this repository (Apps Script source)
+> **Code:** this repository (Apps Script source)<br>
 > **Contact:** *ktabesbusiness@gmail.com | https://www.linkedin.com/in/kyle-table/*
 
 ---
@@ -19,11 +19,7 @@ Centralized tracker for spot & perps trading, wallet balances, and rollups-built
   * [How Keys Are Read](#how-keys-are-read)
 * [Typical Workflows](#typical-workflows)
 * [Automation & Triggers](#automation--triggers)
-* [Repo Layout](#repo-layout)
-* [Local Development (Optional)](#local-development-optional)
-* [Troubleshooting](#troubleshooting)
-* [Roadmap](#roadmap-personal)
-* [License](#license)
+* [Roadmap](#roadmap)
 * [Acknowledgments](#acknowledgments)
 
 ---
